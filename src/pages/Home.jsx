@@ -1,4 +1,3 @@
-import Navbar from "../component/Navbar";
 import Project from "../component/Project";
 
 const Home = () =>{
