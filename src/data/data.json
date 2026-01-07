@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Scroll Bar",
+    "description": "A simple custom scrollbar UI built using React.",
+    "image": "https://img.freepik.com/free-vector/realistic-open-parchment-scroll-transparent_107791-19331.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Todo App",
+    "description": "A simple todo application with add, delete and filter features.",
+    "image": "https://s3-alpha.figma.com/hub/file/4209109661/47513870-fe30-46be-9e47-d370e6ac91c5-cover.png"
+  },
+  {
+    "id": 3,
+    "title": "Counter App",
+    "description": "A basic counter app with increment and decrement functionality.",
+    "image": "https://cdn.dribbble.com/userupload/40217447/file/original-39f4232906716cc55e8aadf39858dde0.png"
+  },
+  {
+    "id": 4,
+    "title": "Calculator",
+    "description": "A simple calculator UI for basic arithmetic operations.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAlTmUjXfbtCG4veePDUPJ3QVDOgkUCeEMg&s"
+  }
+]
